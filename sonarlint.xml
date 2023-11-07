@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="csharpsquid:S107">
+          <value>
+            <Rule active="false" key="csharpsquid:S107" />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <rules>
+      <Rule active="false" key="csharpsquid:S107" />
+    </rules>
+  </component>
+</application>
